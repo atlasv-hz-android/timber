@@ -1,5 +1,17 @@
 # Change log
 
+## [5.1.0](https://github.com/atlasv-hz-android/timber/compare/v5.0.2...v5.1.0) (2025-04-14)
+
+
+### Features
+
+* Update gradle ([33ff077](https://github.com/atlasv-hz-android/timber/commit/33ff077b78cd300b58ac6332b1d9e5b61d015237))
+
+
+### Bug Fixes
+
+* Fix workflow ([0d9a70a](https://github.com/atlasv-hz-android/timber/commit/0d9a70ad8e77bfee8d6ec986422acf4ddcbe4c08))
+
 ## [Unreleased]
 
 
