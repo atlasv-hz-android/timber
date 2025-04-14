@@ -1,5 +1,12 @@
 # Change log
 
+## [5.0.2](https://github.com/atlasv-hz-android/timber/compare/v5.0.1...v5.0.2) (2025-04-14)
+
+
+### Bug Fixes
+
+* threadsafe iteration of forest collection. ([eeed278](https://github.com/atlasv-hz-android/timber/commit/eeed278a2d91fa17cffa8e4c61a785767ad6c33f))
+
 ## [Unreleased]
 
 
