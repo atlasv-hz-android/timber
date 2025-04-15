@@ -1,5 +1,12 @@
 # Change log
 
+## [5.2.2](https://github.com/atlasv-hz-android/timber/compare/v5.2.1...v5.2.2) (2025-04-15)
+
+
+### Bug Fixes
+
+* Fix env ([883278b](https://github.com/atlasv-hz-android/timber/commit/883278b5ed72dcc1ed627c746e4358fa8a3d89eb))
+
 ## [5.2.1](https://github.com/atlasv-hz-android/timber/compare/v5.2.0...v5.2.1) (2025-04-15)
 
 
