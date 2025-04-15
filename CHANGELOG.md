@@ -1,5 +1,24 @@
 # Change log
 
+## [5.2.0](https://github.com/atlasv-hz-android/timber/compare/v5.1.0...v5.2.0) (2025-04-15)
+
+
+### Features
+
+* Update gradle ([33ff077](https://github.com/atlasv-hz-android/timber/commit/33ff077b78cd300b58ac6332b1d9e5b61d015237))
+
+
+### Bug Fixes
+
+* Fix "You do not have permission to create labels on this repository" ([e0d4d2c](https://github.com/atlasv-hz-android/timber/commit/e0d4d2cfac3f18d3f2f99a42e27f7130224d4d4d))
+* Fix workflow ([0d9a70a](https://github.com/atlasv-hz-android/timber/commit/0d9a70ad8e77bfee8d6ec986422acf4ddcbe4c08))
+* threadsafe iteration of forest collection. ([eeed278](https://github.com/atlasv-hz-android/timber/commit/eeed278a2d91fa17cffa8e4c61a785767ad6c33f))
+
+
+### Performance Improvements
+
+* lazy log message ([4f59c1e](https://github.com/atlasv-hz-android/timber/commit/4f59c1e2ac184b99405a35ee1fb44154746930db))
+
 ## [5.1.0](https://github.com/atlasv-hz-android/timber/compare/v5.0.2...v5.1.0) (2025-04-14)
 
 
