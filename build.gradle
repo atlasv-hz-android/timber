@@ -40,14 +40,12 @@ buildscript {
     mavenCentral()
     google()
     gradlePluginPortal()
-    repositories {
-      maven {
-        name = "GitHubPackages"
-        url = uri("https://maven.pkg.github.com/AtlasXV/android-libs")
-        credentials {
-          username = System.getenv("GPR_USR") ?: project.findProperty("GPR_USR")
-          password = System.getenv("GPR_KEY") ?: project.findProperty("GPR_KEY")
-        }
+    maven {
+      name = "GitHubPackages"
+      url = uri("https://maven.pkg.github.com/AtlasXV/android-libs")
+      credentials {
+        username = System.getenv("GPR_USR") ?: project.findProperty("GPR_USR")
+        password = System.getenv("GPR_KEY") ?: project.findProperty("GPR_KEY")
       }
     }
   }
