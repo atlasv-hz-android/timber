@@ -1,3 +1,4 @@
+# 本项目是public，需要独立配置Action Secret：GPR_USR、GPR_KEY
 name: release-please
 on:
   push:
